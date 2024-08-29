@@ -45,3 +45,4 @@ class Test_Personal_Account:
         WebDriverWait(driver, 5).until(expected_conditions.element_to_be_clickable((MainPage.LOGOUT_BUTTON)))
 
         driver.find_element(*MainPage.LOGOUT_BUTTON).click()
+

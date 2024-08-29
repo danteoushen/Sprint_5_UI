@@ -43,4 +43,3 @@ class constructor:
     BUTTON_FILLING = (By.XPATH, ".//span[text()='Начинки']")
 #Текст начинки
     TEXT_FILLING = (By.XPATH, ".//h2[@class='text text_type_main-medium mb-6 mt-10' and text()='Начинки']")
-

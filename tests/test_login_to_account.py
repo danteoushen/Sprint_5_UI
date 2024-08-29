@@ -51,4 +51,3 @@ class Test_Login_to_account:
         driver.find_element(*Registration.EMAIL).send_keys('Alena_Dorofeeva_13_123@mail.ru')
         driver.find_element(*Registration.PASSWORD).send_keys('123456')
         driver.find_element(*Log_In_Account.LOG_IN).click()
-

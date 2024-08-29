@@ -37,8 +37,3 @@ class Test_Constructor:
 
         assert element.text == 'Начинки'
 
-
-
-
-
-
